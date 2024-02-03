@@ -107,6 +107,7 @@ header > h1{
 main h1{
     color: var(--cor4);
     font-family: var(--font-android);
+    padding-left: 10px;
 }
 
 main img{
@@ -122,6 +123,7 @@ main img.pequena{
 main h2{
     font-family: var(--font-android);
     color: var(--cor4);
+    padding-left: 10px;
 }
 
 div {
